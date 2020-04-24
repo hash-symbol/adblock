@@ -6,6 +6,16 @@
 @@||xdracco.lan$document
 @@||nokenza.net$document
 @@||truckeemeadowsjbgc.org$document
+@@||appleid.apple.com$document
+@@||idmsa.apple.com$document
+@@||bugreport.apple.com$document
+@@||www.apple.com$document
+@@||www.icloud.com$document
+@@||streamingaudio.itunes.apple.com$document
+@@||iosapps.itunes.apple.com$document
+@@||riseup.net$document
+@@||app.plex.tv$document
+
 !
 ! Blacklist
 ! Amazon
