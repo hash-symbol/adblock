@@ -1,0 +1,53 @@
+[Adblock Plus 3.1]
+! Title: NoKenza's Shitlist
+! Expires: 1d
+!
+! Whitelist
+@@||xdracco.lan$document
+@@||nokenza.net$document
+@@||truckeemeadowsjbgc.org$document
+!
+! Blacklist
+! Amazon
+amazon.com##div[id="desktop-banner"]
+amazon.com##div[id="percolate-ui-ilm_div"]
+amazon.com##div[class*="video-player"]
+amazon.com##div[cel_widget_id*="Banner"]
+!
+! Facebook
+facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
+facebook.com##div[class="_4-u2 _3-96 _4-u8"]
+facebook.com##div[id="pagelet_ego_pane"][class*="pagelet"]
+facebook.com##div[class="_3-95"] > div:first-child
+facebook.com##div[class="_4-u3 _16cq"]
+!
+! Fandango
+fandango.com##.row.width-100.hide-on-mobile
+!
+! Flicker
+flickr.com##iframe
+flickr.com##div[class*="ad-banner"]
+!
+! Google
+google.com##div[id*="prm"]
+google.com##li[class="ads-ad"]
+google.com##form[action*="adssettings"]
+google.com##div[id="bottomads"]
+!
+! IMDb
+imdb.com##iframe
+imdb.com##[class="ninja_image first_image last_image widget_image"]
+imdb.com##[class="widget_nested zergnet-frame__mobile"]
+imdb.com##[class="widget_header oneline"]
+imdb.com##[class="imdb-footer imdb-footer__open-app-container"]
+imdb.com##[class="mobile_ptp_hero_wrapper mobile_ptp_hero"]
+!
+latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
+!
+! Ubuntu
+help.ubuntu.com##div[class="gsc-adBlock"]
+!
+! Twitter
+twitter.com##div[class="css-1dbjc4n"] > article:first-child
+twitter.com##div[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-15d164r r-1udh08x"]
+twitter.com##.tweet[data-card2-type="promo_website"]
