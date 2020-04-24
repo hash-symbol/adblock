@@ -15,7 +15,6 @@
 @@||iosapps.itunes.apple.com$document
 @@||riseup.net$document
 @@||app.plex.tv$document
-
 !
 ! Blacklist
 ! Amazon
