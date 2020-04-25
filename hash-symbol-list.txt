@@ -49,7 +49,8 @@ google.com##form[action*="adssettings"]
 google.com##div[id="bottomads"]
 !
 ! Gizmodo
-gizmodo.com##div[class*="js_sidebar-edit-video"]
+!gizmodo.com##div[class*="js_sidebar-edit-video"]
+gizmodo.com##divd[id*="sidebar"]
 !
 ! IMDb
 imdb.com##iframe
@@ -73,3 +74,8 @@ twitter.com##.tweet[data-card2-type="promo_website"]
 twitter.com##[aria-label="Who to follow"]
 twitter.com##[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1bro5k0 r-1udh08x"]
 twitter.com##[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
+!
+!
+! Elements
+[id*="trending"]
+[class*="trending"]
