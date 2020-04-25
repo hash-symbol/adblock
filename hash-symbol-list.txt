@@ -48,6 +48,9 @@ google.com##li[class="ads-ad"]
 google.com##form[action*="adssettings"]
 google.com##div[id="bottomads"]
 !
+! Gizmodo
+gizmodo.com##div[class*="js_sidebar-edit-video"]
+!
 ! IMDb
 imdb.com##iframe
 imdb.com##[class="ninja_image first_image last_image widget_image"]
