@@ -50,7 +50,7 @@ google.com##div[id="bottomads"]
 !
 ! Gizmodo
 !gizmodo.com##div[class*="js_sidebar-edit-video"]
-gizmodo.com##div[class*="sc-157agsr-0 cjbzCR"] > div:first-child
+gizmodo.com##div[class*="sc-157agsr-0 cjbzCR"] > aside:first-child
 !
 ! IMDb
 imdb.com##iframe
