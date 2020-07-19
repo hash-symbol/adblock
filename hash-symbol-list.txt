@@ -68,12 +68,10 @@ latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 help.ubuntu.com##div[class="gsc-adBlock"]
 !
 ! Twitter
-!twitter.com##div[class="css-1dbjc4n"] > article:first-child
-!twitter.com##div[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-15d164r r-1udh08x"]
-!twitter.com##.tweet[data-card2-type="promo_website"]
-!twitter.com##[aria-label="Who to follow"]
-!twitter.com##[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1bro5k0 r-1udh08x"]
-!twitter.com##[class="css-1dbjc4n r-1u4rsef r-9cbz99 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
+twitter.com##.tweet[data-card2-type="promo_website"]
+twitter.com##[aria-label="Who to follow"]
+twitter.com##[aria-label="Timeline: Trending now"]
+twitter.com##[data-testid="DMDrawer"]
 !
 ! Elements
 ![id*="trending"]
