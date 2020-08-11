@@ -32,7 +32,7 @@ amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
 facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
 facebook.com##div[class="_4-u2 _3-96 _4-u8"]
 facebook.com##div[id="pagelet_ego_pane"][class*="pagelet"]
-facebook.com##div[class="_3-95"] > div:first-child
+!facebook.com##div[class="_3-95"] > div:first-child
 facebook.com##div[class="_4-u3 _16cq"]
 !
 ! Fandango
