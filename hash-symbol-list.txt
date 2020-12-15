@@ -72,6 +72,7 @@ twitter.com##.tweet[data-card2-type="promo_website"]
 twitter.com##div[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##div[data-testid="DMDrawer"]
+twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
 !
 ! Elements
 ![id*="trending"]
