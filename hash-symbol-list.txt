@@ -27,6 +27,7 @@ amazon.com##div[cel_widget_id*="Banner"]
 amazon.com##div[id="desktop-grid-4"]
 amazon.com##div[id="desktop-grid-5"]
 amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
+amazon.com##div[id*="shopbylook"]
 !
 ! Facebook
 facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
@@ -66,6 +67,9 @@ latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 !
 ! Ubuntu
 help.ubuntu.com##div[class="gsc-adBlock"]
+!
+! UPS
+ups.com##div[id*="tcChat"]
 !
 ! Twitter
 twitter.com##.tweet[data-card2-type="promo_website"]
