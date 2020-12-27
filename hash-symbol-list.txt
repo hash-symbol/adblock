@@ -82,6 +82,9 @@ help.ubuntu.com##div[class="gsc-adBlock"]
 ups.com##iframe
 ups.com##div[id*="tcChat"]
 !
+! What's My IP
+whatsmyip.org##div[class="jfm"]
+!
 ! Yelp
 yelp.com##div[id*="adsense"]
 !
