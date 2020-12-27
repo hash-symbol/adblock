@@ -63,6 +63,7 @@ imdb.com##div[class="widget_header oneline"]
 imdb.com##div[class="imdb-footer imdb-footer__open-app-container"]
 imdb.com##div[class="mobile_ptp_hero_wrapper mobile_ptp_hero"]
 imdb.com##div[class="banner-container"]
+imdb.com##div[class="ipc-page-grid ipc-page-grid--bias-left hero page-grid"]
 !
 ! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
