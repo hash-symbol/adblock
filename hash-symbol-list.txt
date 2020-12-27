@@ -19,21 +19,20 @@
 ! Blacklist
 ! Amazon
 amazon.com##iframe
+amazon.com##div[id="desktop-grid-4"]
+amazon.com##div[id="desktop-grid-5"]
+amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
+amazon.com##div[id*="shopbylook"]
 amazon.com##div[id="desktop-grid-2-AB"]
 amazon.com##div[id="desktop-banner"]
 amazon.com##div[id="percolate-ui-ilm_div"]
 amazon.com##div[class*="video-player"]
 amazon.com##div[cel_widget_id*="Banner"]
-amazon.com##div[id="desktop-grid-4"]
-amazon.com##div[id="desktop-grid-5"]
-amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
-amazon.com##div[id*="shopbylook"]
 !
 ! Facebook
 facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
-facebook.com##div[class="_4-u2 _3-96 _4-u8"]
 facebook.com##div[id="pagelet_ego_pane"][class*="pagelet"]
-!facebook.com##div[class="_3-95"] > div:first-child
+facebook.com##div[class="_4-u2 _3-96 _4-u8"]
 facebook.com##div[class="_4-u3 _16cq"]
 !
 ! Fandango
@@ -45,9 +44,9 @@ flickr.com##div[class*="ad-banner"]
 !
 ! Google
 google.com##div[id*="prm"]
+google.com##div[id="bottomads"]
 google.com##li[class="ads-ad"]
 google.com##form[action*="adssettings"]
-google.com##div[id="bottomads"]
 !
 ! Gizmodo
 gizmodo.com##div[class*="js_sidebar-edit-video"]
@@ -55,29 +54,35 @@ gizmodo.com##div[class*="ynugv2-0 eFcvZm"]
 !
 ! IMDb
 imdb.com##iframe
-imdb.com##[class="ninja_image first_image last_image widget_image"]
-imdb.com##[class="widget_nested zergnet-frame__mobile"]
-imdb.com##[class="widget_header oneline"]
-imdb.com##[class="imdb-footer imdb-footer__open-app-container"]
-imdb.com##[class="mobile_ptp_hero_wrapper mobile_ptp_hero"]
 imdb.com##div[class*="wrapper"]
-imdb.com##div[id="bottom_ad_wrapper"]
+imdb.com##div[id*="ad_wrapper"]
+imdb.com##div[id*="sponsored"]
+imdb.com##div[class="ninja_image first_image last_image widget_image"]
+imdb.com##div[class="widget_nested zergnet-frame__mobile"]
+imdb.com##div[class="widget_header oneline"]
+imdb.com##div[class="imdb-footer imdb-footer__open-app-container"]
+imdb.com##div[class="mobile_ptp_hero_wrapper mobile_ptp_hero"]
+imdb.com##div[class="banner-container"]
 !
+! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 !
-! Ubuntu
-help.ubuntu.com##div[class="gsc-adBlock"]
-!
-! UPS
-ups.com##div[id*="tcChat"]
-!
 ! Twitter
-twitter.com##.tweet[data-card2-type="promo_website"]
+twitter.com##div[data-card2-type*="promo"]
 twitter.com##div[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##div[data-testid="DMDrawer"]
 twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
 !
+! Ubuntu
+help.ubuntu.com##div[class="gsc-adBlock"]
+!
+! UPS
+ups.com##iframe
+ups.com##div[id*="tcChat"]
+!
+! Yelp
+yelp.com##div[id*="adsense"]
+!
 ! Elements
-![id*="trending"]
-![class*="trending"]
+div[class*="_blocklocation"]
