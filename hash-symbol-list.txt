@@ -87,6 +87,7 @@ whatsmyip.org##div[class="jfm"]
 !
 ! Yelp
 yelp.com##div[id*="adsense"]
+yelp.com##div[class*="ad-container"]
 !
 ! Elements
 div[class*="_blocklocation"]
