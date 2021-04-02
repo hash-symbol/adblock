@@ -2,20 +2,6 @@
 ! Title: Hash Symbol's Shitlist
 ! Expires: 1d
 !
-! Whitelist
-@@||appleid.apple.com$document
-@@||idmsa.apple.com$document
-@@||bugreport.apple.com$document
-@@||www.apple.com$document
-@@||xdracco.lan$document
-@@||www.icloud.com$document
-@@||truckeemeadowsjbgc.org$document
-@@||streamingaudio.itunes.apple.com$document
-@@||iosapps.itunes.apple.com$document
-@@||riseup.net$document
-@@||nokenza.net$document
-@@||app.plex.tv$document
-!
 ! Blacklist
 ! Amazon
 amazon.com##iframe
