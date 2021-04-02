@@ -69,11 +69,11 @@ imdb.com##div[class="ipc-page-grid ipc-page-grid--bias-left hero page-grid"]
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 !
 ! Twitter
-twitter.com##div[data-card2-type*="promo"]
-twitter.com##aside[aria-label*="Who to follow"]
-twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com##div[data-testid="DMDrawer"]
-twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
+!twitter.com##div[data-card2-type*="promo"]
+!twitter.com##aside[aria-label*="Who to follow"]
+!twitter.com##div[aria-label="Timeline: Trending now"]
+!twitter.com##div[data-testid="DMDrawer"]
+!twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
 !
 ! Ubuntu
 help.ubuntu.com##div[class="gsc-adBlock"]
