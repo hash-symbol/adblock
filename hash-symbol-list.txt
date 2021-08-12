@@ -2,6 +2,9 @@
 ! Title: Hash Symbol's Shitlist
 ! Expires: 1d
 !
+! Whitelist
+@@||xdracco.lan^$document
+!
 ! Blacklist
 ! Amazon
 amazon.com##iframe
