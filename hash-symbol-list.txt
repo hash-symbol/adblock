@@ -61,11 +61,11 @@ twitter.com##aside[aria-label*="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##div[data-testid="DMDrawer"]
 twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
-twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
-twitter.com##div[role="dialog"]
-twitter.com##[id$="PromoSlot"]
-twitter.com##html->body:style(overflow:visible !important;)
-twitter.com##html:style(overflow:visible !important;)
+!twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
+!twitter.com##div[role="dialog"]
+!twitter.com##[id$="PromoSlot"]
+!twitter.com##html->body:style(overflow:visible !important;)
+!twitter.com##html:style(overflow:visible !important;)
 !
 ! Ubuntu
 help.ubuntu.com##div[class="gsc-adBlock"]
