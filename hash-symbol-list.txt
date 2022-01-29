@@ -65,7 +65,7 @@ twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
 twitter.com##div[role="dialog"]
 twitter.com##[id$="PromoSlot"]
 !twitter.com##html->body:style(overflow:visible !important;)
-twitter.com##html:style(overflow:visible !important;)
+!twitter.com##html:style(overflow:visible !important;)
 !
 ! Ubuntu
 help.ubuntu.com##div[class="gsc-adBlock"]
