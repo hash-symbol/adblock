@@ -52,8 +52,16 @@ imdb.com##div[class="mobile_ptp_hero_wrapper mobile_ptp_hero"]
 imdb.com##div[class="banner-container"]
 imdb.com##div[class="ipc-page-grid ipc-page-grid--bias-left hero page-grid"]
 !
+! Instagram
+instagram.com##div[class="_8Rm4L bLWKA vboSt _6E_wP ccgHY GZkEI"]
+instagram.com##div[class="_2eEhX"]
+!
 ! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
+!
+! Protonmail
+mail.protonmail.com##div[class="bg-primary p1 text-center"]
+mail.protonmail.com##a[class="button button-outline-norm inline-block text-center topnav-link inline-flex flex-nowrap flex-align-items-center"]
 !
 ! Twitter
 twitter.com##div[data-card2-type*="promo"]
