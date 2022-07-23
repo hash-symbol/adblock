@@ -17,6 +17,7 @@ amazon.com##div[cel_widget_id*="Banner"]
 amazon.com##div[id="desktop-editorial"]
 amazon.com##div[class*="a-popover-modal"]
 amazon.com##li[class*="videoThumbnail"]
+amazon.com##div[data-csa-c-slot-id="desktop-grid-1"]
 !
 ! Facebook
 facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
