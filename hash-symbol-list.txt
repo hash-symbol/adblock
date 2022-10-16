@@ -2,7 +2,15 @@
 ! Title: Hash Symbol's Shitlist
 ! Expires: 1d
 !
+! How to write filters
+! https://help.eyeo.com/adblockplus/how-to-write-filters
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
 ! Blacklist
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
 ! Amazon
 amazon.com##iframe
 amazon.com##div[id="desktop-grid-4"]
@@ -89,3 +97,16 @@ yelp.com##div[class*="ad-container"]
 !
 ! Elements
 div[class*="_blocklocation"]
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! Whitelist
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! Amazon
+@@||www.amazon.com/dp/*$document
+@@||www.amazon.com/gp/*$document
+@@||www.amazon.com/hz/*$document
+@@||www.amazon.com/*/dp/*$document
+@@||www.amazon.com/progress-tracker/package/*$document
