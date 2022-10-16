@@ -23,7 +23,6 @@ amazon.com##div[id="percolate-ui-ilm_div"]
 amazon.com##div[class*="video-player"]
 amazon.com##div[cel_widget_id*="Banner"]
 amazon.com##div[id="desktop-editorial"]
-amazon.com##div[class*="a-popover-modal"]
 amazon.com##li[class*="videoThumbnail"]
 amazon.com##div[data-csa-c-slot-id="desktop-grid-1"]
 !
@@ -98,15 +97,3 @@ yelp.com##div[class*="ad-container"]
 ! Elements
 div[class*="_blocklocation"]
 !
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! Whitelist
-!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! Amazon
-@@||www.amazon.com/dp/*$document
-@@||www.amazon.com/gp/*$document
-@@||www.amazon.com/hz/*$document
-@@||www.amazon.com/*/dp/*$document
-@@||www.amazon.com/progress-tracker/package/*$document
