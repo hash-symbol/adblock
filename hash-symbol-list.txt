@@ -96,4 +96,3 @@ yelp.com##div[class*="ad-container"]
 !
 ! Elements
 div[class*="_blocklocation"]
-!
