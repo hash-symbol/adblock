@@ -106,5 +106,4 @@ yelp.com##div[class*="ad-container"]
 ! Whitelist
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-@@*$domain=xdracco.lan
-@@||xdracco.lan$document,domain=xdracco.lan
+@@||orion.xdracco.lan$document,domain=orion.xdracco.lan
