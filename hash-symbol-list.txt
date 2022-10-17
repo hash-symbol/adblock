@@ -112,4 +112,3 @@ yelp.com##div[class*="ad-container"]
 @@||hollandreno.org$document,domain=hollandreno.org
 @@*$domain=thisisreno.com
 @@||thisisreno.com$document,domain=thisisreno.com
-@@||2600-hwy-50e.1password.com$document,domain=2600-hwy-50e.1password.com
