@@ -73,6 +73,9 @@ latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 mail.protonmail.com##div[class="bg-primary p1 text-center"]
 mail.protonmail.com##a[class="button button-outline-norm inline-block text-center topnav-link inline-flex flex-nowrap flex-align-items-center"]
 !
+! Startpage
+! startpage.com##div[class*="1yey8gl"]
+!
 ! Twitter
 twitter.com##div[data-card2-type*="promo"]
 twitter.com##aside[aria-label*="Who to follow"]
@@ -94,5 +97,6 @@ whatsmyip.org##div[class="jfm"]
 yelp.com##div[id*="adsense"]
 yelp.com##div[class*="ad-container"]
 !
-! Elements
+! Global Elements
 div[class*="_blocklocation"]
+##div[class="media-end-of-post"]
