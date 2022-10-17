@@ -99,4 +99,4 @@ yelp.com##div[class*="ad-container"]
 !
 ! Global Elements
 div[class*="_blocklocation"]
-##div[class="media-end-of-post"]
+div[class="media-end-of-post"]
