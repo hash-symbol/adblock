@@ -108,3 +108,8 @@ yelp.com##div[class*="ad-container"]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@*$domain=xdracco.lan
 @@||xdracco.lan$document,domain=xdracco.lan
+@@*$domain=hollandreno.org
+@@||hollandreno.org$document,domain=hollandreno.org
+@@*$domain=thisisreno.com
+@@||thisisreno.com$document,domain=thisisreno.com
+@@||2600-hwy-50e.1password.com$document,domain=2600-hwy-50e.1password.com
