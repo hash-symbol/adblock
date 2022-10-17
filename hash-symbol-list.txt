@@ -103,7 +103,8 @@ yelp.com##div[class*="ad-container"]
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-! Whitelist
+! Whitecklist
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-@@||*.xdracco.lan$document,domain=*.xdracco.lan
+@@*$domain=xdracco.lan
+@@||xdracco.lan$document,domain=xdracco.lan
