@@ -7,6 +7,18 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
+! Whitecklist
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@@*$domain=xdracco.lan
+@@||xdracco.lan$document,domain=xdracco.lan
+@@*$domain=hollandreno.org
+@@||hollandreno.org$document,domain=hollandreno.org
+@@*$domain=thisisreno.com
+@@||thisisreno.com$document,domain=thisisreno.com
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
 ! Blacklist
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -106,15 +118,3 @@ youtube.com##[class*="popup"]
 ! Global Elements
 ##div[class*="_blocklocation"]
 ##div[class="media-end-of-post"]
-!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! Whitecklist
-!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-@@*$domain=xdracco.lan
-@@||xdracco.lan$document,domain=xdracco.lan
-@@*$domain=hollandreno.org
-@@||hollandreno.org$document,domain=hollandreno.org
-@@*$domain=thisisreno.com
-@@||thisisreno.com$document,domain=thisisreno.com
