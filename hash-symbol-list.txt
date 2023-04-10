@@ -80,6 +80,9 @@ imdb.com##div[class="ipc-page-grid ipc-page-grid--bias-left hero page-grid"]
 instagram.com##div[class="_8Rm4L bLWKA vboSt _6E_wP ccgHY GZkEI"]
 instagram.com##div[class="_2eEhX"]
 !
+! ipinfo
+ipinfo.io##.free-ip-db-header-banner
+!
 ! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
 !
