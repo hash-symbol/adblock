@@ -91,8 +91,8 @@ mail.protonmail.com##div[class="bg-primary p1 text-center"]
 mail.protonmail.com##a[class="button button-outline-norm inline-block text-center topnav-link inline-flex flex-nowrap flex-align-items-center"]
 !
 ! Startpage
-startpage.com##div[class="cp-qi-tp cp-qi-tp--"]
-startpage.com##div[class="layout-web__sidebar layout-web__sidebar--web"]
+startpage.com##div[class*="cp-qi-tp"]
+startpage.com##div[class*="layout-web__sidebar"]
 startpage.com##div[class*="mtj8kd"]
 startpage.com##div[class*="1ptadie"]
 !
