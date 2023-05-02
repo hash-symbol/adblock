@@ -90,7 +90,8 @@ mail.protonmail.com##a[class="button button-outline-norm inline-block text-cente
 ! Startpage
 startpage.com##div[class="cp-qi-tp cp-qi-tp--"]
 startpage.com##div[class="layout-web__sidebar layout-web__sidebar--web"]
-startpage.com##div[class="css-mtj8kd"]
+startpage.com##div[class*="mtj8kd"]
+startpage.com##div[class*="1ptadie"]
 !
 ! Twitter
 twitter.com##div[data-card2-type*="promo"]
