@@ -16,6 +16,8 @@
 @@||hollandreno.org$document,domain=hollandreno.org
 @@*$domain=thisisreno.com
 @@||thisisreno.com$document,domain=thisisreno.com
+@@*$domain=trashpandabooking.com
+@@||trashpandabooking.com$document,domain=trashpandabooking.com
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
@@ -93,7 +95,7 @@ instagram.com##div[class="_8Rm4L bLWKA vboSt _6E_wP ccgHY GZkEI"]
 instagram.com##div[class="_2eEhX"]
 !
 ! ipinfo
-ipinfo.io##.free-ip-db-header-banner
+ipinfo.io##section[class="general-announcement-banner"]
 !
 ! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
