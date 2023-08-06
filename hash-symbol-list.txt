@@ -95,7 +95,7 @@ instagram.com##div[class="_8Rm4L bLWKA vboSt _6E_wP ccgHY GZkEI"]
 instagram.com##div[class="_2eEhX"]
 !
 ! ipinfo
-ipinfo.io##section[class="general-announcement-banner"]
+ipinfo.io##[class*="announcement"]
 !
 ! LA Times
 latimes.com##div[style*="bottom: 0px; left: 0px; position: fixed;"]
