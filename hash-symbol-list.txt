@@ -127,6 +127,9 @@ ups.com##div[id*="tcChat"]
 ! What's My IP
 whatsmyip.org##div[class="jfm"]
 !
+! Wordpress
+maoistcultexposed.wordpress.com##div[id="marketingbar"]
+!
 ! Yelp
 yelp.com##div[id*="adsense"]
 yelp.com##div[class*="ad-container"]
