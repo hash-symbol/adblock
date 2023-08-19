@@ -1,4 +1,4 @@
-[Adblock Plus 3.1]
+[Adblock Plus 3.2]
 ! Title: Hash Symbol's Shitlist
 ! Expires: 1d
 !
