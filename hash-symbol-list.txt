@@ -93,6 +93,7 @@ imdb.com##div[class="ipc-page-grid ipc-page-grid--bias-left hero page-grid"]
 ! Instagram
 instagram.com##div[class="_8Rm4L bLWKA vboSt _6E_wP ccgHY GZkEI"]
 instagram.com##div[class="_2eEhX"]
+instagram.com##div[class="_a9_9"]
 !
 ! ipinfo
 ipinfo.io##[class*="announcement"]
