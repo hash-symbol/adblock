@@ -4,6 +4,9 @@
 !
 ! How to write filters
 ! https://help.eyeo.com/adblockplus/how-to-write-filters
+! 
+! Hash Symbol Adblock URL
+! https://raw.githubusercontent.com/hash-symbol/adblock/master/hash-symbol-list.txt
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
