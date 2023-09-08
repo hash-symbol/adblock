@@ -109,20 +109,14 @@ mail.protonmail.com##div[class="bg-primary p1 text-center"]
 mail.protonmail.com##a[class="button button-outline-norm inline-block text-center topnav-link inline-flex flex-nowrap flex-align-items-center"]
 !
 ! Startpage
+startpage.com##iframe
 startpage.com##div[class*="cp-qi-tp"]
 startpage.com##div[class*="layout-web__sidebar"]
 startpage.com##div[class*="mtj8kd"]
 startpage.com##div[class*="1ptadie"]
 !
-! Twitter
-twitter.com##div[data-card2-type*="promo"]
-twitter.com##aside[aria-label*="Who to follow"]
-twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com##div[data-testid="DMDrawer"]
-twitter.com##div[class="ProfileTweet-actionjs-tooltipaction-brave-tip"]
-!
 ! Ubuntu
-help.ubuntu.com##div[class="gsc-adBlock"]
+ubuntu.com##div[class*="adBlock"]
 !
 ! UPS
 ups.com##iframe
@@ -132,7 +126,7 @@ ups.com##div[id*="tcChat"]
 whatsmyip.org##div[class="jfm"]
 !
 ! Wordpress
-maoistcultexposed.wordpress.com##div[id="marketingbar"]
+wordpress.com##div[id*="marketingbar"]
 !
 ! Yelp
 yelp.com##div[id*="adsense"]
