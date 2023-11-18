@@ -41,7 +41,6 @@ apple.news#$#abort-on-property-read document.cookie
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 ! Amazon
-amazon.com##iframe
 amazon.com##div[id="desktop-grid-4"]
 amazon.com##div[id="desktop-grid-5"]
 amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
