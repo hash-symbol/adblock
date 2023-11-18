@@ -41,23 +41,7 @@ apple.news#$#abort-on-property-read document.cookie
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 ! Amazon
-amazon.com##div[id="desktop-grid-4"]
-amazon.com##div[id="desktop-grid-5"]
-amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
-amazon.com##div[id*="shopbylook"]
-amazon.com##div[id="desktop-grid-2-AB"]
-amazon.com##div[id="desktop-banner"]
-amazon.com##div[id="percolate-ui-ilm_div"]
-amazon.com##div[class*="video-player"]
-amazon.com##div[cel_widget_id*="Banner"]
-amazon.com##div[id="desktop-editorial"]
-amazon.com##li[class*="videoThumbnail"]
-amazon.com##div[data-csa-c-slot-id="desktop-grid-1"]
-amazon.com##div[data-card-metrics-id*="card_desktop"]
-amazon.com##div[data-csa-c-slot-id="stitch-banner"]
-amazon.com##._universal-detail-ilm-card_style_desktop__2G4jX
-amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-amazon.com###nav-main > .nav-right
+
 !
 ! Facebook
 facebook.com##div[id="pagelet_sidebar"] > div[class*="fbChatSidebar"]
