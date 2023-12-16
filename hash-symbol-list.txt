@@ -28,15 +28,15 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-firebaseapp.com#$#abort-on-property-read document.cookie
-google-analytics.com#$#abort-on-property-read document.cookie
-tsyndicate.com#$#abort-on-property-read document.cookie
-appcenter.ms#$#abort-on-property-read document.cookie
-apple.news#$#abort-on-property-read document.cookie
-facebook.com#$#abort-on-property-read document.cookie
-twitter.com#$#abort-on-property-read document.cookie
-pintrest.com#$#abort-on-property-read document.cookie
-analytics.plex.tv#$#abort-on-property-read document.cookie
+firebaseapp.com$abort-on-property-read document.cookie
+google-analytics.com$abort-on-property-read document.cookie
+tsyndicate.com$abort-on-property-read document.cookie
+appcenter.ms$abort-on-property-read document.cookie
+apple.news$abort-on-property-read document.cookie
+facebook.com$abort-on-property-read document.cookie
+twitter.com$abort-on-property-read document.cookie
+pintrest.com$abort-on-property-read document.cookie
+analytics.plex.tv$abort-on-property-read document.cookie
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
