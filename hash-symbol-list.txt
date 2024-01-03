@@ -28,7 +28,7 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-! Amazon
+! Amazon yes
 amazon.com##div[id*="desktop-grid"]
 amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
 amazon.com##div[id*="shopbylook"]
