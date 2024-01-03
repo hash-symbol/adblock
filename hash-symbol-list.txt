@@ -46,6 +46,7 @@ amazon.com##[class*="ad-banner"]
 amazon.com##[id*="ad-banner"]
 amazon.com##[id*="prime_feature_div"]
 amazon.com##[id*="prime_div"]
+amazon.com##[class*="shoveler"]
 amazon.com##._universal-detail-ilm-card_style_desktop__2G4jX
 amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
 amazon.com###nav-main > .nav-right
