@@ -119,6 +119,7 @@ startpage.com##div[class*="cp-qi-tp"]
 startpage.com##div[class*="layout-web__sidebar"]
 startpage.com##div[class*="mtj8kd"]
 startpage.com##div[class*="1ptadie"]
+www.startpage.com##.tw-qi
 !
 !---------------------Ubuntu-----------------------!
 ubuntu.com##div[class*="adBlock"]
