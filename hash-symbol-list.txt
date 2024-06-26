@@ -28,7 +28,7 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-! Amazon yes
+! Amazon
 amazon.com##div[id*="desktop-grid"]
 amazon.com##div[id="ape_Gateway_right-2_desktop_placement"]
 amazon.com##div[id*="shopbylook"]
@@ -108,6 +108,7 @@ startpage.com##div[class*="cp-qi-tp"]
 startpage.com##div[class*="layout-web__sidebar"]
 startpage.com##div[class*="mtj8kd"]
 startpage.com##div[class*="1ptadie"]
+startpage.com##div[class*="1otjdr8"]
 !
 ! Ubuntu
 ubuntu.com##div[class*="adBlock"]
