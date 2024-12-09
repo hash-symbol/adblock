@@ -17,8 +17,6 @@
 @@||xdracco.lan$document,domain=xdracco.lan
 @@*$domain=hollandreno.org
 @@||hollandreno.org$document,domain=hollandreno.org
-@@*$domain=thisisreno.com
-@@||thisisreno.com$document,domain=thisisreno.com
 @@*$domain=trashpandabooking.com
 @@||trashpandabooking.com$document,domain=trashpandabooking.com
 !
@@ -109,6 +107,7 @@ startpage.com##div[class*="layout-web__sidebar"]
 startpage.com##div[class*="mtj8kd"]
 startpage.com##div[class*="1ptadie"]
 startpage.com##div[class*="1otjdr8"]
+startpage.com##section[id="sidebar"][class*="css-"]
 !
 ! Ubuntu
 ubuntu.com##div[class*="adBlock"]
