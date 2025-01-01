@@ -15,11 +15,11 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@*$domain=xdracco.lan
-@@||*.xdracco.lan^$data,font,document,script,style,object,subdocument,xmlhttprequest,websocket,domain=xdracco.lan
+@@||*.xdracco.lan^$font,document,script,object,subdocument,xmlhttprequest,websocket,domain=xdracco.lan
 @@*$domain=hollandreno.org
-@@||*.hollandreno.org^$data,font,document,script,style,subdocument,domain=hollandreno.org
+@@||*.hollandreno.org^$font,document,script,subdocument,domain=hollandreno.org
 @@*$domain=trashpandabooking.com
-@@||*.trashpandabooking.com^$data,font,document,script,style,subdocument,domain=trashpandabooking.com
+@@||*.trashpandabooking.com^$font,document,script,subdocument,domain=trashpandabooking.com
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
