@@ -15,8 +15,8 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@*$domain=xdracco.lan
-@@||xdracco.lan$document,domain=xdracco.lan
-@@||xdracco.lan^$font,domain=xdracco.lan
+!@@||*.xdracco.lan$document,domain=xdracco.lan
+@@||*.xdracco.lan^$font,document
 
 @@*$domain=hollandreno.org
 @@||hollandreno.org$document,domain=hollandreno.org
