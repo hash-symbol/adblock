@@ -15,7 +15,7 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@*$domain=xdracco.lan
-@@||*.xdracco.lan^$font,document,script,style,object,subdocument,xmlhttprequest,websocket,domain=xdracco.lan
+@@||*.xdracco.lan^$data,font,document,script,style,object,subdocument,xmlhttprequest,websocket,domain=xdracco.lan
 @@*$domain=hollandreno.org
 @@||*.hollandreno.org^$font,document,domain=hollandreno.org
 @@*$domain=trashpandabooking.com
