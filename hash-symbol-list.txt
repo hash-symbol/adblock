@@ -11,19 +11,15 @@
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
-! Whitecklist
+! Whitelist
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@*$domain=xdracco.lan
-!@@||*.xdracco.lan$document,domain=xdracco.lan
-@@||*.xdracco.lan^$font,document
-
+@@||*.xdracco.lan^$font,document,domain=xdracco.lan
 @@*$domain=hollandreno.org
-@@||hollandreno.org$document,domain=hollandreno.org
-
-
+@@||*.hollandreno.org^$font,document,domain=hollandreno.org
 @@*$domain=trashpandabooking.com
-@@||trashpandabooking.com$document,domain=trashpandabooking.com
+@@||*.trashpandabooking.com^$font,document,domain=trashpandabooking.com
 
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
