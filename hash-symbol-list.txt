@@ -132,7 +132,7 @@ youtube.com##div[class*="promo"]
 youtube.com##[class*="popup"]
 !
 ! YTS
-yts.mx##div[id="movie-bottom]
+yts.mx##div[id="movie-bottom"]
 !
 ! Global Elements
 ##div[class*="_blocklocation"]
