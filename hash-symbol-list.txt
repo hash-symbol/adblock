@@ -1,7 +1,7 @@
 [Adblock Plus 3.2]
 ! Title: Hash Symbol's Shitlist
-! Expires: 12 hours
-! Version: 1.0
+! Expires: 24 hours
+! Version: 1.1
 !
 ! How to write filters
 ! https://help.eyeo.com/adblockplus/how-to-write-filters
